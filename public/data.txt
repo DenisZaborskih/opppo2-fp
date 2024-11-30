@@ -1,0 +1,20 @@
+ADD Cartoon Clay-Adventure Alice-Smith Clay
+ADD Cartoon Clay-Adventure Alice-Smith Casd
+ADD GameMovie Epic-Quest John-Doe Fantasy-World
+ADD Serial Mystery-Chronicles Jane-Doe 45
+ADD Cartoon Space-Explorers Bob-Johnson Clay
+REM Space-Explorers
+PRINT
+ADD GameMovie Battle-Legends Sarah-Connor Action-Game
+ADD Serial Deterenes Kaz-Miller 30
+ADD Kino Once-upon-a-time Kaz-Miller 30
+REM Mystery-Chronicles
+ADD Serial String Name Another-String
+ADD Serial String Name 90
+ADD Serial String Name2 90
+ADD Serial String Name 90
+REM GameMovie Epic-Quest
+REG wrong wrong worng worng
+PRINT
+REM Clay-Adventure
+PRINT
